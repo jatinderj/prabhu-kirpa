@@ -1,0 +1,204 @@
+
+
+
+body{margin: 0%}
+
+.jkvideo{
+    position: relative;
+    right:0%; 
+    bottom:0%;
+   z-index: auto;
+   widows:50px;
+   height: 545px;
+   border: 5px solid rgb(233, 236, 5);
+   left: 4;
+    
+}
+
+
+
+
+header{
+    background: rgb(241, 5, 202);
+    color:rgb(215, 238, 13);
+    padding: 8px 0px 6px 40px;
+    height: 40px;
+}
+header h1{ display: inline;
+    font: outline;
+    font-weight: 300;
+    font: size 40px;
+    float: left;
+    margin-top: 10px;
+    margin-right:50px;
+}
+
+nav ul{ 
+    display: inline;
+    padding: 0%;
+    float: left;
+}
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    color: rgb(20, 139, 243);
+    float: left;
+    margin-right: 12px;
+}
+
+nav ul li a{
+color: rgb(224, 223, 238);
+    text-decoration: none;
+    display: block;
+
+}
+#nav{
+    font-style: tahoma;
+}
+.jred {
+    background: rgb(211, 13, 13);
+    padding: 4px 2px 1px;
+    border: 1px solid rgb(235, 212, 8);
+    width: 121px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+}
+.homegreen{
+    background: rgb(39, 22, 190);
+    padding: 4px 2px 1px;
+    border: 1px solid rgb(10, 236, 112);
+    width: 121px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+
+
+
+}
+.homeblack{
+    background: rgb(238, 12, 12);
+    padding: 4px 2px 1px;
+    border: 1px solid rgb(18, 247, 37);
+    width: 121px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+
+
+}
+.homejk{
+    background: rgb(135, 21, 201);
+    padding: 4px 2px 1px;
+    border: 1px solid rgb(241, 238, 6);
+    width: 121px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+}
+.divider{
+    background: rgb(191, 149, 245);
+    height: 5px;
+}
+.homegreen:hover {background: rgb(25, 64, 238);
+}
+.jred:hover{
+    background: rgb(61, 78, 236);
+}
+.homejk:hover{
+    background: rgb(83, 215, 238);
+   
+}
+.homeblack:hover{
+    background: rgb(16, 223, 51);
+}
+.container{
+    background: rgb(241, 128, 63);
+    width: 100%;
+}
+.jkgj{
+    width: 988px;
+    background: rgb(201, 14, 14);
+    margin: auto;
+}
+.love{
+    margin: 1px;
+    padding: 1px;
+}
+.lovej{
+    margin: 1px;
+    padding: 1px;
+}
+#menu ul{
+    list-style: none;
+}
+#menu ul li{
+    background-color: rgb(247, 17, 28);
+    width: 115px;
+    border: 1px solid rgb(149, 224, 10);
+    text-align: center;
+    height: 35px;
+    line-height: 35px;
+    float: left;
+    position: relative;
+
+
+}
+#menu ul li a{
+    display: block;
+    text-decoration: none;
+    color: rgb(157, 243, 18);
+   
+}
+
+#menu ul li a:hover{
+    background-color: rgb(243, 10, 208);
+
+}
+.nony{
+    background-color: rgb(152, 202, 16);
+    width: 99%;
+}
+#menu ul ul {
+    position: absolute;
+    display: none;
+}
+#menu ul li:hover>ul{
+    display: block;
+} 
+#menu ul ul ul{
+    margin-left: 80px;
+    top: 0px;
+}
+#nony1{
+    height: 20px;
+    line-height: 20px;
+   border: 5px solid rgb(236, 122, 15);
+   margin-top: 1px;
+
+}
+#textst{
+    height: 20px;
+    border-radius:20px;
+}
+#butto{
+    background-color: rgb(175, 230, 26);
+    color: rgb(226, 14, 14);
+    padding: 1px;
+    border-radius: 15px;
+    border:2px solid rgb(57, 231, 14);
+}
+.love{
+    background-color: rgb(0, 255, 85);
+}
+#jkimage img{
+    width: 270px;
+    border: 2px solid rgb(112, 8, 248);
+    padding: 15px;
+    background-color: rgb(93, 58, 223);
+    box-shadow: 5px 5px 10px rgb(235, 8, 8);
+    margin-top: 5px;
+    margin-left: 2px;
+    margin: 10px;
+    float: left;
+}
